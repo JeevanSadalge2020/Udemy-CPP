@@ -1,2 +1,0 @@
-Enter 2 numbers
-The sum of 5 and 51 is 56
